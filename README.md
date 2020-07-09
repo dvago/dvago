@@ -6,7 +6,8 @@ Since 2009 I spent so many hours on developing interfaces for small and big clos
 
 I come from a family of designers so since I was young I developed a keen eye on design and user experience, permitting me to produce qualitative UI/web design.
 
-I'm currently working as Lead UI developer at Cognitive Credit, a fintech startup based in London (UK) which focuses in the financial credit market, where I'm responsible of the product design and frontend development, the company's brand identity and the collaterals.
+I'm currently working as Lead UI developer at Cognitive Credit, a fintech startup based in London (UK) which focuses in the financial credit market. 
+At Cognitive Credit, I'm responsible of the product design and frontend development, the company's brand identity and collaterals.
 
 I never contributed on open-source projects but happy to start helping out if requested. :genie_man:
 
