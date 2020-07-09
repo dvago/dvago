@@ -1,6 +1,6 @@
 # :vulcan_salute:
 
-Hi, I'm Davide, I'm a developer focused on frontend technologies.
+Hi, I'm Davide, a developer focused on frontend technologies.
 
 Since 2009 I spent so many hours on developing interfaces for small and big closed-source projects.
 
